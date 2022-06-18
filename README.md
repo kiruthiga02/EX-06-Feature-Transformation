@@ -92,6 +92,8 @@ df
 ![image](https://user-images.githubusercontent.com/98682825/174452473-1b9965cf-ad37-4cda-827b-77bd8542986c.png)
 ![image](https://user-images.githubusercontent.com/98682825/174452496-416ad975-4f0a-492a-9bc6-26cc4d88223a.png)
 ![image](https://user-images.githubusercontent.com/98682825/174452513-c44d7931-250a-4b1e-b30a-e43b8159b425.png)
+![image](https://user-images.githubusercontent.com/98682825/174452555-5d16a61c-0a58-47b3-8fc8-010cbe777dfc.png)
+
 
 
 

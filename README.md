@@ -134,7 +134,8 @@ df
 ![image](https://user-images.githubusercontent.com/98682825/174452919-aa941de7-adf2-45b8-9652-9a50d22c21ba.png)
 ![image](https://user-images.githubusercontent.com/98682825/174452927-e496f512-92c0-47c9-a267-9a516d4a1337.png)
 
-
+## RESULT:
+    The various feature transformation techniques has been performed on the given datasets and the data are saved to a file.
 
 
 

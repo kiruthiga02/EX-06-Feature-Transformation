@@ -93,6 +93,13 @@ df
 ![image](https://user-images.githubusercontent.com/98682825/174452496-416ad975-4f0a-492a-9bc6-26cc4d88223a.png)
 ![image](https://user-images.githubusercontent.com/98682825/174452513-c44d7931-250a-4b1e-b30a-e43b8159b425.png)
 ![image](https://user-images.githubusercontent.com/98682825/174452555-5d16a61c-0a58-47b3-8fc8-010cbe777dfc.png)
+![image](https://user-images.githubusercontent.com/98682825/174452587-e04b6e41-ecc0-4b57-8295-32badb1817f1.png)
+![image](https://user-images.githubusercontent.com/98682825/174452595-c043dfb3-3e59-4b97-bab9-2eedcdb2080c.png)
+![image](https://user-images.githubusercontent.com/98682825/174452604-a2b37a40-2579-4526-90fc-c473e5c8f1f2.png)
+![image](https://user-images.githubusercontent.com/98682825/174452613-2927ad9f-905c-4e70-b09f-db16fb5a86b7.png)
+![image](https://user-images.githubusercontent.com/98682825/174452621-0b5b56e7-2e2f-4d41-b196-0c5ffecebae4.png)
+
+
 
 
 
